@@ -1,0 +1,81 @@
+    1  git init
+    2  ls -al
+    3  git version
+    4  git init
+    5  ls -al
+    6  git status 
+    7  git init
+    8  touch file1
+    9  git init
+   10  git status 
+   11  git config --global user.email "chaitanyaeducation36@gmail.com"
+   12  git config --global user.name "chaitanyagithub28"
+   13  git commit -m "first commit" 
+   14  git add file1
+   15  git commit -m "first commit" 
+   16  git status 
+   17  git branch -M main
+   18  git remote add origin https://github.com/chaitanyagithub28/mydemo1.git
+   19  git push -u origin main
+   20  git push -u origin main
+   21  git status 
+   22  git remote add origin https://github.com/chaitanyagithub28/mydemo1.git
+   23  git push -u origin main
+   24  git push -u origin main
+   25  history > demo1cmds.txt
+   26  git init
+   27  ls -al
+   28  git status 
+   29  git add file1
+   30  git status
+   31  git config --global user.email "chaitanyaeducation36@gmail.com"
+   32  git config --global user.name "chaitanyagithub28"
+   33  git status 
+   34  git commit -m "first commit"
+   35  git branch -M main
+   36  git remote add origin https://github.com/chaitanyagithub28/mydemo1.git
+   37  git push -u origin main
+   38  git remote add origin https://github.com/chaitanyagithub28/mydemo1.git
+   39  git push -u origin main
+   40  git init
+   41  git status 
+   42  git commit -m "first commit"
+   43  git remote add origin https://github.com/chaitanyagithub28/mydemo1.git
+   44  git push -u origin main
+   45  git push -u origin main
+   46  git push -u origin main
+   47  git init
+   48  git status 
+   49  ls -al
+   50  git add *
+   51  git status 
+   52  git checkout -b emp1
+   53  git commit -m "emp1 files"
+   54  git remote add origin https://github.com/chaitanyagithub28/calculatordemo.git
+   55  git push -u origin emp1
+   56  git checkout -b main 
+   57  git branch
+   58  git checkout -b emp2
+   59  git branch 
+   60  git status 
+   61  git add *
+   62  git branch
+   63  git commit -m "emp2 modifications"
+   64  git remote add origin https://github.com/chaitanyagithub28/calculatordemo.git
+   65  git branch
+   66  git push -u origin emp2
+   67  git pull origin emp2
+   68  git add *
+   69  git status
+   70  git remote add origin https://github.com/chaitanyagithub28/calculatordemo.git
+   71  git commit -m "emp2 second time modifications"
+   72  git pull origin emp2
+   73  git push -u origin emp2
+   74  history > commands.txt
+   75  ls
+   76  git checkout -b main
+   77  git branch -M main
+   78  ls
+   79  ls -al
+   80  ll
+   81  history > commands.txt
